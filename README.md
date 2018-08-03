@@ -2,7 +2,7 @@
 
 Criado usando:
 - html
--css
+- css
 - Bootstrap 4 (Gulp e Sass)
 - Javascript
 - Banco de dados (Mysql)
