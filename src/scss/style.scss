@@ -15,9 +15,13 @@ nav img {
     //justify-content: center
 } 
 
+ .imgcarousel h6  {
+    text-decoration-color: black;
+}
+
 nav img:hover {
-    -webkit-transform: rotate(180deg);
-    transform: rotate(180deg);
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
 }
 //cor da navbar 5603AD
 
