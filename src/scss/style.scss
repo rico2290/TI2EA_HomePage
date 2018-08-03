@@ -1,0 +1,23 @@
+nav img {
+    width: auto;
+    height: 40px;
+    -webkit-transition: .5s ease-in-out;
+    transition: .5s  ease-in-out;
+  
+}
+
+.imgcarousel img {
+    max-width: 300;
+    max-height:400px;
+    width: auto;
+    height: auto;
+    //display: inline-block
+    //justify-content: center
+} 
+
+nav img:hover {
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+//cor da navbar 5603AD
+
