@@ -1,8 +1,37 @@
 nav img {
   width: auto;
-  height: 40px;
-  -webkit-transition: .5s ease-in-out;
-  transition: .5s  ease-in-out; }
+  height: 45px;
+  -webkit-transition: .3s;
+  transition: .3s; }
+
+nav img:hover {
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg); }
+
+nav .navbarTi2ea ul li {
+  font-size: 20px; }
+
+.footerimg img {
+  padding-left: 20%;
+  padding-top: 2%;
+  max-width: 72%;
+  max-height: 72%; }
+
+.card-deck .cardsimg img {
+  max-width: 100%;
+  max-height: 38%;
+  width: auto;
+  height: auto; }
+
+.card-deck .cardsimg {
+  width: auto;
+  height: 500px; }
+
+nav img {
+  padding-left: 35%; }
+
+.container {
+  width: 80% !important; }
 
 .imgcarousel img {
   max-width: 300;
@@ -13,6 +42,8 @@ nav img {
 .imgcarousel h6 {
   text-decoration-color: black; }
 
-nav img:hover {
-  -webkit-transform: rotate(360deg);
-  transform: rotate(360deg); }
+.footerbottom h6 {
+  padding-bottom: 2%;
+  padding-top: 1%;
+  text-align: center;
+  background-color: #169CB2; }
